@@ -2,7 +2,7 @@
   "name": "ChatGPT PWA",
   "short_name": "ChatGPT",
   "description": "PWA for ChatGPT",
-  "theme_color": "#75A99B",
+  "theme_color": "#79AB9E",
   "background_color": "#343541",
   "icons": [
     {
