@@ -1,3 +1,3 @@
 # chatgpt-pwa
 
-PWA for ChatGPT
+See. https://daido1976.github.io/chatgpt-pwa/

@@ -10,5 +10,5 @@ const isStandalone = () => {
 };
 
 if (isStandalone()) {
-  window.location.href = "https://chat.openai.com/";
+  window.location.href = "https://chat.openai.com/chat?model=gpt-4";
 }
